@@ -1,1 +1,1 @@
-# RAG_ollama
+# GDPR_RAG
